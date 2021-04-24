@@ -1,0 +1,3 @@
+The goodies selected for distribution: 
+Alexa: 9999
+And the difference between the chosen goodie with highest price and the lowest price is 0
